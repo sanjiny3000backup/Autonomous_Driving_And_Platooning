@@ -9,7 +9,10 @@
 - Cudnn 8.0.2
 - OpenCV 4.5.1  
 ---
-## V2X(VEHICLE TO EVERYTHING) (:page_facing_up:관련논문 : [v2x.pdf](https://github.com/colin9597/Analysis_Of_Credit_Card_Company_Data/files/6796931/v2x.pdf))
+## 구성도
+![시스템 설계](https://user-images.githubusercontent.com/80561963/125196645-9a337480-e295-11eb-9545-7b319aa85d12.png)
+---
+## V2X(VEHICLE TO EVERYTHING) #### (:page_facing_up:관련논문 : [v2x.pdf](https://github.com/colin9597/Analysis_Of_Credit_Card_Company_Data/files/6796931/v2x.pdf))
 차량이 네트워크를 통해 다른 차량 및 인프라가 구축된 사물과 정보를 교환하는 통신기술
 ![v2x](https://user-images.githubusercontent.com/80561963/125195654-9140a400-e291-11eb-94f6-ed11d23f3313.JPG)  
 - V2N(Vehicle to Network) : 교통상황을 제공받아 네트워크가 차량을 판단 및 주행제어
