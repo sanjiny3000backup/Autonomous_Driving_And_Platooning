@@ -48,3 +48,4 @@
 ---
 ## Report
 - 최종보고서 : [B3_최종보고서.pdf](https://github.com/colin9597/Analysis_Of_Credit_Card_Company_Data/files/6796996/B3_.pdf)  
+- 발표자료 : [B반 3조 인공지능 최종 발표.pdf](https://github.com/colin9597/Analysis_Of_Credit_Card_Company_Data/files/6797410/B.3.pdf)
