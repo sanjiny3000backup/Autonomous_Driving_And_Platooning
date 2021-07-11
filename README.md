@@ -43,3 +43,8 @@
 > :heavy_check_mark: 라즈베리파이 연산 능력을 초과하는 YOLO와 주행 영상은 TCP 통신으로 Work Station에서 처리  
 > :heavy_check_mark: 간단한 주행 신호는 BL Socket 통신으로 처리  
 ---
+## 시연영상
+![Hnet-image](https://user-images.githubusercontent.com/80561963/125197771-f7312980-e299-11eb-8174-e6e06158b8a9.gif)
+---
+## Report
+- 최종보고서 : [B3_최종보고서.pdf](https://github.com/colin9597/Analysis_Of_Credit_Card_Company_Data/files/6796996/B3_.pdf)  
